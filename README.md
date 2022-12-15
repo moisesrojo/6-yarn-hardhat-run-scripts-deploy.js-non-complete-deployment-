@@ -11,5 +11,8 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
 # Error-Cannot-find-module-hardhat-common-bigInt-
+
 # Error-Cannot-find-module-hardhat-common-bigInt-
+# 6-yarn-hardhat-run-scripts-deploy.js-non-complete-deployment-
